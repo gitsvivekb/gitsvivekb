@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivekanandhan B
-- 👀 I’m interested in ...Data Science
+- 👀 Mechanical Engineer Turned Data Analyst
 - 🌱 I’m currently learning ...Power BI,SQL,Python,Tableau
 - 📫 How to reach me ...vivekanandhan5398@gmail.com
 
